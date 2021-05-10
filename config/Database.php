@@ -8,7 +8,7 @@
     
     // DB Params for Heroku
     private $host = 'frwahxxknm9kwy6c.cbetxkdyhwsb.us-east-1.rds.amazonaws.com';
-    private $db_name = 'i22jce46fiw00cqe'
+    private $db_name = 'i22jce46fiw00cqe';
     private $password = 'mp8kaoxektltu4de';
     private $conn;
 
